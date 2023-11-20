@@ -4,7 +4,7 @@
  
 Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo
 
-Варіант 1, модель у середовищі NetLogo: [Virus](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo)
+Варіант 3, модель у середовищі NetLogo: [Virus](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo)
 
 
 ## Внесені зміни у вихідну логіку моделі, за варіантом:
